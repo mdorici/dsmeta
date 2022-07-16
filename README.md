@@ -17,7 +17,7 @@ https://github.com/devsuperior/sds-dsmovie
 Criar um app completo para o portfólio com as tecnologias mais demandadas do mercado
 
 ## Tecnologias e aprendizagem:
-Nesse projeto tive a oportunidade de desenvolver um projeto completo com frontend e backend integrados,
+Nesse evento tive a oportunidade de desenvolver um projeto completo com frontend e backend integrados,
 utilizando algumas das tecnologias mais utilizadas no mercado. 
 
 O resultado foi uma aplicação que faz a filtragem de vendas a através das datas selecionadas,
